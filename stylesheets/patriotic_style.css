@@ -1,11 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
+  transition: background 1s;
+  -webkit-transition: background 1s; /* Safari */
+/* above: fading effect*/
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#dddddd;
   font-weight:300;
-	background:#be0000 
+  background:#FFFFFF 
 }
 
 h1, h2, h3, h4, h5, h6 {
