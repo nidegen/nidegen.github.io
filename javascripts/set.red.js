@@ -19,3 +19,8 @@ function fadeOutRedColorScheme() {
     h1s[i].style.color = "#000";
   }
 }
+
+function delay(ms) {
+  var start = +new Date;
+  while ((+new Date - start) < ms);
+}
