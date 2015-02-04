@@ -8,6 +8,7 @@ function setRedColorScheme() {
   var as = document.querySelectorAll("li, a");
   for(var i = 0; i < as.length; i++) {
     as[i].style.color = "#000";
+    as[i].style.fontWeight="900";
   }
 }
 
