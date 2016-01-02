@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Hi & Welcome
+title: Grüezi
 ---
 
-Willkomme uf minere chline neue websiite!
+Willkomme uf minere chline websiite!
 
-![Schöns Wätter am Zürisee](./assets/BikeUntergang.JPG)
+![Schöns Wätter am Zürisee](/assets/BikeUntergang.JPG)
 
 
 
