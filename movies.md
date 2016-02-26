@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Movies
+visible: 0
 ---
 
 ## War Movies
