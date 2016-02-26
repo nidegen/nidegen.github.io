@@ -2,7 +2,6 @@
 layout: page
 title: Hyperlinks
 ---
-<div class="theme-base-08">
 
 ## Some good links to check out..
 ### To reed:

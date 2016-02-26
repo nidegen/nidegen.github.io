@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Curricular
+title: Experience
 ---
-<div class="theme-base-08">
 
 ## Academic
 ### Local Map Optimization for Visual Inertial Mapping
