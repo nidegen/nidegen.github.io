@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            n+d
+tagline:          'nicolas degen'
+description:      'Please allow me to introduce myself..'
+url:              http://nidegen.github.io
+baseurl:          /
+
+author:
+  name:           'Nicolas Degen'
+  url:            https://twitter.com/nidegen
+
+gems:
+  - jekyll-paginate
+  - redcarpet
+  - jekyll-gist
+  - pygments.rb
+
+#paginate:         2
