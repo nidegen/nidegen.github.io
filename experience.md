@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Experience
+order: 2
 ---
 
 ## Academic

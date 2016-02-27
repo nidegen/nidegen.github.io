@@ -22,14 +22,15 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = site.pages | sort:"order" %}
       {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.visible != 0 %}
-            {% if node.layout == "page" %}
-              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-              {% endif %}
+        {% if node.title != null and node.visible != 0 and node.layout == "page" and node.is_subsite != 1%}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% for subnode in pages_list %}
+            {% if subnode.title != null and subnode.visible != 0 and subnode.layout == "page" and subnode.parent == node.title%}
+              <a class="sidebar-nav-subitem{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}"> &nbsp; - {{ subnode.title }}</a>
             {% endif %}
+          {% endfor %}
         {% endif %}
       {% endfor %}
     </nav>

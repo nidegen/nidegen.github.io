@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Welcome
+title: Home
+order: 0
 ---
-
 <body class="theme-base-08">
 ![Schöns Wätter am Zürisee](/assets/BikeUntergang.JPG)
 <p class="message">

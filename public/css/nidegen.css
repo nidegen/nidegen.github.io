@@ -2,6 +2,11 @@
 .sidebar-about-nd h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Helvetica Neue", serif;
-  font-size: 4.25rem;
+  font-size: 1.95rem;
+}
+/* Sidebar nav subfolder*/
+.sidebar-nav-subitem {
+  display: block;
+  line-height: 1.25;
+  font-size: .8rem;
 }

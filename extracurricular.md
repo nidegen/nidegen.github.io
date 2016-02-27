@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Extracurricular
+order: 2
 ---
 
 ## Volunteering

@@ -2,6 +2,8 @@
 layout: page
 title: Movies
 visible: 0
+is_subsite: 1
+parent: Hyperlinks
 ---
 
 ## War Movies
