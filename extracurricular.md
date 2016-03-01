@@ -16,6 +16,8 @@ My duties as head of university politics for the Mechanical and Process Engineer
 
 [Amiv an der ETH](http://www.amiv.ch/) is the student association of mechanical and electrical engineering and the largest of its kind at ETH Zurich.
 
+![Visual Inertial Mapping](/assets/volunteeing_ETH.png)
+
 -
 
 
