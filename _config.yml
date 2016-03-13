@@ -6,8 +6,8 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'nicolas + degen'
-tagline:          'n+d=:'
+title:            'Nicolas Degen'
+tagline:          'n+d'
 description:      ' ...please allow me to introduce myself'
 url:              http://nidegen.github.io
 baseurl:          /

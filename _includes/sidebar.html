@@ -28,14 +28,14 @@
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% for subnode in pages_list %}
             {% if subnode.title != null and subnode.visible != 0 and subnode.layout == "page" and subnode.parent == node.title%}
-              <a class="sidebar-nav-subitem{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}"> &nbsp; - {{ subnode.title }}</a>
+              <a class="sidebar-nav-subitem{% if page.url == node.url %} active{% endif %}" href="{{ subnode.url }}"> &nbsp; - {{ subnode.title }}</a>
             {% endif %}
           {% endfor %}
         {% endif %}
       {% endfor %}
     </nav>
 
-    <p> Contact me:
+    <p> n+d=:
       <a href="http://twitter.com/nidegen"> <i class="fa fa-twitter-square"></i>
       <a href="http://github.com/nidegen"> <i class="fa fa-github-square"></i></a>
       <a href="http://plus.google.com/+NicolasDegen"> <i class="fa fa-google-plus-square"></i></a>
