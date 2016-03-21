@@ -9,6 +9,6 @@ order: 0
   Willkomä uf minere chline websiite!
 </p>
 
-I am trained mechanical **engineer** with a focus on control systems and robotics and an **enthusiastic coder**!
+I am trained **mechanical engineer** with a focus on control systems and robotics and an **enthusiastic coder**!
 
 If you are here to see more about my experiences, check [Experience](/experience) or some of the subtabs.

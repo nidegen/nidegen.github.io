@@ -6,11 +6,28 @@ order: 4
 <body class="theme-base-0d">
 
 ## Some gems found on the web
+
+### E-Mobility. The future
+
+[Nico Berchtold](https://mobilityengineering.ch) The master of swiss e-mobility!
+
+[Designwerk](http://design-werk.ch) The home of all swiss e-mobility masters.
+
+[Kyburz](http://kyburz-switzerland.ch) The largest EV factory in Switzerland
+
+[E-Force-One](http://eforce.ch) A great spinoff from Designwerk. Leading the revolution for cargo.
+
+[Tesla](tesla.com) No comments needed I think...
+
+
+
 ### Wikipedia, the most addictive url around.
 
 #### Biology:
 [Marsupials:](https://en.wikipedia.org/wiki/Marsupial)
 Did you know that marsupials are born as a fetus? Worth to read!
+
+[Meat:](http://www.zeit.de/zeit-magazin/essen-trinken/2015-04/hausschlachtung-schwein-bauernhof) People tend to lose the relation to where the meat comes from. Why is it that eating muscles is more normal than eating organs?
 
 -
 
@@ -20,6 +37,16 @@ Schwizerdütsch ist ja ganz anders als Hochdeutsch. Aber sogar schweizer Hochdeu
 
 [Degen:](https://en.wiktionary.org/wiki/Degen#Etymology_1)
 Etymology of my surname on Wiktionary.
+
+
+## Geekstuff:
+
+[WebGl applet:](http://madebyevan.com/webgl-water/) Go with the flow!
+
+
+## Cinema:
+
+[Sergio Leone Legacy:](http://www.bbc.com/culture/story/20160210-the-lasting-legacy-of-the-good-the-bad-and-the-ugly) The lasting legacy of 'The Good, the Bad and the Ugly' is very well described by the BBC!
 
 
 
