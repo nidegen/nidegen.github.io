@@ -23,3 +23,5 @@ gems:
   - pygments.rb
 
 #paginate:         2
+
+include: ['_pages']

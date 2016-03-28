@@ -7,6 +7,8 @@ order: 4
 
 ## Some gems found on the web
 
+a.k.a. my public bookmark collection.
+
 ### E-Mobility. The future
 
 [Nico Berchtold](https://mobilityengineering.ch) The master of swiss e-mobility!
@@ -19,15 +21,23 @@ order: 4
 
 [Tesla](tesla.com) No comments needed I think...
 
+### Creative work and Design
 
+[crafft agency](https://www.crafft.ch/) For readable texts.
+[nose](https://www.nose.ch/)
 
-### Wikipedia, the most addictive url around.
+### Foodstuff
+
+[Tiere essen]( http://www.zeit.de/zeit-magazin/essen-trinken/2015-04/hausschlachtung-schwein-bauernhof) Unser Verhältnis mit der Fleischerzeugung ist etwas von der Realität abgerückt.
+
+### Wikipedia, the most addictive url around. And some other related stuff.
 
 #### Biology:
 [Marsupials:](https://en.wikipedia.org/wiki/Marsupial)
 Did you know that marsupials are born as a fetus? Worth to read!
 
 [Meat:](http://www.zeit.de/zeit-magazin/essen-trinken/2015-04/hausschlachtung-schwein-bauernhof) People tend to lose the relation to where the meat comes from. Why is it that eating muscles is more normal than eating organs?
+[Ameisen, ein funktionierendes Gesellschaftsmodell?]( http://www.snf.ch/de/fokusForschung/newsroom/Seiten/news-150304-horizonte-auf-dem-ameisenfriedhof.aspx) Sehr eindrücklich.
 
 -
 
@@ -60,6 +70,9 @@ Beeindruckende Lavamassen die sich durch die östliche Halbinsel Russlands ergie
 
 [Carlo Gatti:](http://www.srf.ch/play/tv/tagesschau-am-mittag/video/geschichte-der-schweizer-einwanderer-in-london?id=87bb0945-699b-4a7d-8089-018cb8d6ac21)
 Mein Ur-ur-ur-ur-Grossonkel:) in London.
+
+[Dead on Time (1984)](https://youtu.be/3XID0DjBsaU) One of Rowan Atkinsons brilliant performances.
+
 -
 
 
