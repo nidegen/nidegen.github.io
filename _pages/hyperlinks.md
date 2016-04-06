@@ -11,7 +11,7 @@ a.k.a. my public bookmark collection.
 
 ### E-Mobility. The future
 
-[Nico Berchtold](https://mobilityengineering.ch) The master of swiss e-mobility!
+[Nico Berchtold](https://mobilityengineering.ch) One of the master of swiss e-mobility!
 
 [Designwerk](http://design-werk.ch) The home of all swiss e-mobility masters.
 
@@ -23,12 +23,12 @@ a.k.a. my public bookmark collection.
 
 ### Creative work and Design
 
+[nose](https://www.nose.ch/) Some great industrial designer based in Zurich.
 [crafft agency](https://www.crafft.ch/) For readable texts.
-[nose](https://www.nose.ch/)
 
 ### Foodstuff
 
-[Tiere essen]( http://www.zeit.de/zeit-magazin/essen-trinken/2015-04/hausschlachtung-schwein-bauernhof) Unser Verhältnis mit der Fleischerzeugung ist etwas von der Realität abgerückt.
+[Fleischkonsum]( http://www.zeit.de/zeit-magazin/essen-trinken/2015-04/hausschlachtung-schwein-bauernhof) Unser Verhältnis mit der Fleischerzeugung ist etwas von der Realität abgerückt. Interessanter Artikel über das Metzgen.
 
 ### Wikipedia, the most addictive url around. And some other related stuff.
 
@@ -36,7 +36,6 @@ a.k.a. my public bookmark collection.
 [Marsupials:](https://en.wikipedia.org/wiki/Marsupial)
 Did you know that marsupials are born as a fetus? Worth to read!
 
-[Meat:](http://www.zeit.de/zeit-magazin/essen-trinken/2015-04/hausschlachtung-schwein-bauernhof) People tend to lose the relation to where the meat comes from. Why is it that eating muscles is more normal than eating organs?
 [Ameisen, ein funktionierendes Gesellschaftsmodell?]( http://www.snf.ch/de/fokusForschung/newsroom/Seiten/news-150304-horizonte-auf-dem-ameisenfriedhof.aspx) Sehr eindrücklich.
 
 -
@@ -49,12 +48,12 @@ Schwizerdütsch ist ja ganz anders als Hochdeutsch. Aber sogar schweizer Hochdeu
 Etymology of my surname on Wiktionary.
 
 
-## Geekstuff:
+### Geekstuff:
 
 [WebGl applet:](http://madebyevan.com/webgl-water/) Go with the flow!
 
 
-## Cinema:
+### Cinema:
 
 [Sergio Leone Legacy:](http://www.bbc.com/culture/story/20160210-the-lasting-legacy-of-the-good-the-bad-and-the-ugly) The lasting legacy of 'The Good, the Bad and the Ugly' is very well described by the BBC!
 
@@ -63,7 +62,7 @@ Etymology of my surname on Wiktionary.
 
 
 
-## Webclips
+### Webclips
 
 [Kamtschatka-Vulkane:](http://www.spiegel.de/static/360grad/kamtschatka/)
 Beeindruckende Lavamassen die sich durch die östliche Halbinsel Russlands ergiessen.
